@@ -88,7 +88,13 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+
+<img width="858" height="746" alt="Screenshot 2025-12-26 170852" src="https://github.com/user-attachments/assets/a8a86e2d-ab03-429a-9be6-f2b9b08945a1" />
+
 # Output:
+
+<img width="814" height="652" alt="Screenshot 2025-12-26 170907" src="https://github.com/user-attachments/assets/b9eb3cfa-e041-4059-b9ac-db40134ac37b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
